@@ -2,7 +2,7 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-%230e76a8?style=flat&logo=linkedin)](https://www.linkedin.com/in/ilyakaznacheev)
-[![Codersrank](https://img.shields.io/badge/CodersRank-profile-%2350b0ba?style=flat&logo=codersrank)](https://www.profile.codersrank.io/user/ilyakaznacheev)
+[![Codersrank](https://img.shields.io/badge/CodersRank-profile-%2350b0ba?style=flat&logo=codersrank)](https://profile.codersrank.io/user/ilyakaznacheev)
 [![Telegram](https://img.shields.io/badge/Telegram-ping-%232CA5E0?style=flat&logo=telegram)](https://t.me/ilyakaznacheev)
 [![website](https://img.shields.io/badge/personal-blog-blueviolet?style=flat)](http://www.kaznacheev.me)
 [![dev.to](https://img.shields.io/badge/dev.to-blog-%230A0A0A?style=flat&logo=dev.to)](https://www.dev.to/ilyakaznacheev)
@@ -26,6 +26,6 @@ I like coffee, bikes, and interesting conversations.
 
 [![Z-Namespace](https://img.shields.io/badge/z--namespace-podcast-yellow?style=flat&logo=google%20podcasts)](https://ilyakaznacheev.github.io/z-namespace/)
 [![Golang Voronezh](https://img.shields.io/badge/golang_voronezh-community-%2300ADD8?style=flat&logo=go)](https://www.meetup.com/ru-RU/Golang-Voronezh/)
-[![SAP Community Voronezh](https://img.shields.io/badge/sap_voronezh-community-%23008FD3?style=flat&logo=sap)](http://swww.apcmntvrn.ru/)
+[![SAP Community Voronezh](https://img.shields.io/badge/sap_voronezh-community-%23008FD3?style=flat&logo=sap)](http://sapcmntvrn.ru/)
 [![OSS](https://img.shields.io/badge/oss-contribution-%233DA639?style=flat&logo=open%20source%20initiative)](https://www.github.com/ilyakaznacheev)
-[![Actitivy log](https://img.shields.io/badge/log-activity-lightgrey?style=flat)](https://www.ilyakaznacheev.github.io/public/)
+[![Actitivy log](https://img.shields.io/badge/log-activity-lightgrey?style=flat)](https://ilyakaznacheev.github.io/public/)
