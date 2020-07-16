@@ -21,7 +21,6 @@ I like coffee, bikes, and interesting conversations.
 ![Docker](https://img.shields.io/badge/docker-containers-%232496ED?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-containers-%23326CE5?style=flat&logo=kubernetes)
 ![Google Cloud](https://img.shields.io/badge/google-cloud-%234285F4?style=flat&logo=google%20cloud)
-![Linux](https://img.shields.io/badge/linux-os-%23FCC624?style=flat&logo=linux)
 
 🥤My hobbies:
 
