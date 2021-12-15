@@ -9,7 +9,7 @@
 [![Upwork](https://img.shields.io/badge/upwork-hire-%236FDA44?style=flat&logo=upwork)](https://www.upwork.com/o/profiles/users/_~01d11fd187549ef566/)
 [![CV](https://img.shields.io/badge/CV-hire-success?style=flat)](http://www.kaznacheev.me/cv/en)
 
-I am a remote  backend SWE, community activist, and a nice person.
+I am GDE on Cloud, Techlead and Cloud Architect.
 
 I like coffee, bikes, and interesting conversations.
 
